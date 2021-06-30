@@ -1,4 +1,5 @@
 
+![Screenshot from 2021-06-30 17-19-34](https://user-images.githubusercontent.com/71300964/123944545-6c158100-d9c7-11eb-86f0-66db6fef2963.png)
 
 ## Bước 1: 
 ```
