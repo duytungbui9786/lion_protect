@@ -9,7 +9,7 @@
 ## Bước 4: vào vue </br>
   +yarn serve
   
-  ## Bước 4: cấu trúc </br>
+  ##   cấu trúc </br>
  ``` 
   ├── liontoy_backend
 │   ├── controllers
