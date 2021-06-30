@@ -1,11 +1,17 @@
 
 
 ## Bước 1: </br>
+```
   +git clone https://github.com/duytungbui9786/lion_protect.git </br>
+  ```
 ## Bước 2: vào vue </br>
+```
   +npm install </br>
+  ```
 ## Bước 3: vào go  </br>
-  +run go 3000: </br>
+```
+  +run go . < 3000:> </br>
+  ```
 ## Bước 4: vào vue </br>
   +yarn serve
   
