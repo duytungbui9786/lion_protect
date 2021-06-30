@@ -48,3 +48,6 @@
         │   └── promotion
         └── router
 ```
+## Data table
+![Screenshot from 2021-06-30 17-14-35](https://user-images.githubusercontent.com/71300964/123944031-ebef1b80-d9c6-11eb-8129-d4a9b36e1837.png)
+
