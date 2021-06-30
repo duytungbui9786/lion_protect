@@ -1,21 +1,21 @@
 
 
-## Bước 1: </br>
+## Bước 1: 
 ```
-  +git clone https://github.com/duytungbui9786/lion_protect.git </br>
+  git clone https://github.com/duytungbui9786/lion_protect.git </br>
   ```
-## Bước 2: vào vue </br>
+## Bước 2: vào vue 
 ```
-  +npm install </br>
+  npm install
   ```
-## Bước 3: vào go  </br>
+## Bước 3: vào go  
 ```
-  +run go . < 3000:> </br>
+  run go . < 3000:> 
   ```
-## Bước 4: vào vue </br>
-  +yarn serve
+## Bước 4: vào vue 
+  yarn serve
   
-  ##   cấu trúc </br>
+  ##   cấu trúc 
  ``` 
   ├── liontoy_backend
 │   ├── controllers
