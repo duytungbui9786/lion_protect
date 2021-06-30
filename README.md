@@ -3,7 +3,7 @@
 
 ## Bước 1: 
 ```
-  git clone https://github.com/duytungbui9786/lion_protect.git </br>
+  git clone https://github.com/duytungbui9786/lion_protect.git 
   ```
 ## Bước 2: vào vue 
 ```
